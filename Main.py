@@ -1,3 +1,4 @@
+#рекомендуется запускать код на Spyder, поскольку алгоритм писался на нём и при попытках запуска в других средах иногда возникали ошибки
 import numpy as np
 import matplotlib.pyplot as plt
 import tifffile
